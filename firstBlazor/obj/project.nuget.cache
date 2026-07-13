@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dfOHKI50PRQ=",
+  "success": true,
+  "projectFilePath": "/Users/joeyblack/Desktop/School/DOTNET/FirstBlazor/firstBlazor/firstBlazor.csproj",
+  "expectedPackageFiles": [
+    "/Users/joeyblack/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.9/microsoft.aspnetcore.app.internal.assets.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
